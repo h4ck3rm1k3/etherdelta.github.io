@@ -30,7 +30,7 @@ When a counterparty decides to trade your resting order, he submits a transactio
 
 ## Internal security review
 
-The smart contract source code can be found [on GitHub](https://github.com/etherdelta/etherdelta.github.io/blob/master/smart_contract/etherdelta.sol). It is also verified on Etherscan.
+The smart contract source code can be found [on GitHub](https://github.com/h4ck3rm1k3/nined.github.io/blob/master/smart_contract/etherdelta.sol). It is also verified on Etherscan.
 
     pragma solidity ^0.4.2;
 
